@@ -1,0 +1,32 @@
+tr{
+	font-family: 'times new raman',times,serif;
+}
+.t{
+	color: black;
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+	.d{
+		color: blue;
+	}
+	.f{
+		color: green;
+	}
+	.h2{
+		color: red;
+		text-align:center;
+	}
+	table{
+		margin-left: 250px;
+	}
+	*{
+		background-color:grey;
+	}
+	th,td{
+		background-color: white;
+	}
+	.l{
+		background-color: white;
+	}
